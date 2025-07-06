@@ -1,10 +1,9 @@
-# Olá, eu sou João Fontes 👋
+Hi, I'm João Fontes 👋  
+Software Developer and Programming Instructor.  
+Specializing in Design Patterns and Advanced Data Structures.
 
-> *Desenvolvedor de Software* e Instrutor de Programação.  
-> Me especializando em Design Patterns e Estruturas de Dados Avançadas.
 
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -24,7 +23,7 @@
 
 ---
 
-## 📈 Estatísticas
+## 📈 Activity Overview
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaoFontes-debug&show_icons=true&theme=radical)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoFontes-debug&layout=compact&theme=radical)
@@ -32,7 +31,7 @@
 ---
 
 
-## 📫 Como me encontrar
+## 📫 Let's Connect
 
 <p align="left">
   <a href="mailto: j.henry.kings@gmail.com" target="_blank">
