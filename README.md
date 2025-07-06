@@ -45,4 +45,4 @@
 
 ---
 
-&copy; 2025 [Seu Nome]
+&copy; 2025 João_Fontes
